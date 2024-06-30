@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.waif.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "waif.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "InventoryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
